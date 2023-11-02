@@ -380,3 +380,7 @@ hr {
 .bottomsocial{
   padding-left: 75px;
 }
+.fix{
+  position: fixed;
+  width: 100%;
+}
